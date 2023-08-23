@@ -1,0 +1,18 @@
+﻿  TicTacToe.c
+D:\Учеба\Али\Tic-tac-toe\KrestikiNoliki\KrestikiNoliki\TicTacToe.c(6,18): warning C4244: функция: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Учеба\Али\Tic-tac-toe\KrestikiNoliki\KrestikiNoliki\TicTacToe.c(41,31): warning C4020: Robot: слишком много фактических параметров
+D:\Учеба\Али\Tic-tac-toe\KrestikiNoliki\KrestikiNoliki\TicTacToe.c(67,30): warning C4020: Robot: слишком много фактических параметров
+  ListName.c
+  Loading.c
+D:\Учеба\Али\Tic-tac-toe\KrestikiNoliki\KrestikiNoliki\Loading.c(6,1): warning C4305: инициализация: усечение из "double" в "float"
+  Menu.c
+  Player.c
+  Print.c
+  Robot.c
+D:\Учеба\Али\Tic-tac-toe\KrestikiNoliki\KrestikiNoliki\Robot.c(4,1): warning C4029: объявленный список формальных параметров отличается от объявления
+  Screensaver.c
+  Time.c
+  Win.c
+  WinCheck.c
+  Создание кода...
+  KrestikiNoliki.vcxproj -> D:\Учеба\Али\Tic-tac-toe\KrestikiNoliki\Debug\KrestikiNoliki.exe

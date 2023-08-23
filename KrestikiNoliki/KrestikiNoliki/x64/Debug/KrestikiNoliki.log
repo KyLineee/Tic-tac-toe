@@ -1,0 +1,42 @@
+﻿  TicTacToe.c
+F:\KrestikiNoliki\Tic-tac-toe\KrestikiNoliki\TicTacToe.c(6,18): warning C4244: функция: преобразование "time_t" в "unsigned int", возможна потеря данных
+F:\KrestikiNoliki\Tic-tac-toe\KrestikiNoliki\TicTacToe.c(41,31): warning C4020: Robot: слишком много фактических параметров
+F:\KrestikiNoliki\Tic-tac-toe\KrestikiNoliki\TicTacToe.c(67,30): warning C4020: Robot: слишком много фактических параметров
+  ListName.c
+  Loading.c
+F:\KrestikiNoliki\Tic-tac-toe\KrestikiNoliki\Loading.c(6,1): warning C4305: инициализация: усечение из "double" в "float"
+  Menu.c
+  Player.c
+F:\KrestikiNoliki\Tic-tac-toe\KrestikiNoliki\Player.c(26,3): error C4235: использовано нестандартное расширение: ключевое слово "__asm" данной архитектурой не поддерживается
+F:\KrestikiNoliki\Tic-tac-toe\KrestikiNoliki\Player.c(28,8): error C2065: mov: необъявленный идентификатор
+F:\KrestikiNoliki\Tic-tac-toe\KrestikiNoliki\Player.c(28,8): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "tru"
+F:\KrestikiNoliki\Tic-tac-toe\KrestikiNoliki\Player.c(29,4): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "mov"
+F:\KrestikiNoliki\Tic-tac-toe\KrestikiNoliki\Player.c(29,8): error C2065: mov: необъявленный идентификатор
+F:\KrestikiNoliki\Tic-tac-toe\KrestikiNoliki\Player.c(29,8): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "eax"
+F:\KrestikiNoliki\Tic-tac-toe\KrestikiNoliki\Player.c(29,11): error C2065: eax: необъявленный идентификатор
+F:\KrestikiNoliki\Tic-tac-toe\KrestikiNoliki\Player.c(30,4): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "mov"
+F:\KrestikiNoliki\Tic-tac-toe\KrestikiNoliki\Player.c(30,8): error C2065: mov: необъявленный идентификатор
+F:\KrestikiNoliki\Tic-tac-toe\KrestikiNoliki\Player.c(30,8): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "edx"
+F:\KrestikiNoliki\Tic-tac-toe\KrestikiNoliki\Player.c(30,11): error C2065: edx: необъявленный идентификатор
+F:\KrestikiNoliki\Tic-tac-toe\KrestikiNoliki\Player.c(31,4): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "imul"
+F:\KrestikiNoliki\Tic-tac-toe\KrestikiNoliki\Player.c(31,9): error C2065: imul: необъявленный идентификатор
+F:\KrestikiNoliki\Tic-tac-toe\KrestikiNoliki\Player.c(31,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "edx"
+F:\KrestikiNoliki\Tic-tac-toe\KrestikiNoliki\Player.c(31,12): error C2065: edx: необъявленный идентификатор
+F:\KrestikiNoliki\Tic-tac-toe\KrestikiNoliki\Player.c(32,4): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "add"
+F:\KrestikiNoliki\Tic-tac-toe\KrestikiNoliki\Player.c(32,8): error C2065: add: необъявленный идентификатор
+F:\KrestikiNoliki\Tic-tac-toe\KrestikiNoliki\Player.c(32,8): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "edx"
+F:\KrestikiNoliki\Tic-tac-toe\KrestikiNoliki\Player.c(32,11): error C2065: edx: необъявленный идентификатор
+F:\KrestikiNoliki\Tic-tac-toe\KrestikiNoliki\Player.c(33,4): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "movzx"
+F:\KrestikiNoliki\Tic-tac-toe\KrestikiNoliki\Player.c(33,10): error C2065: movzx: необъявленный идентификатор
+F:\KrestikiNoliki\Tic-tac-toe\KrestikiNoliki\Player.c(33,10): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ebx"
+F:\KrestikiNoliki\Tic-tac-toe\KrestikiNoliki\Player.c(33,13): error C2065: ebx: необъявленный идентификатор
+F:\KrestikiNoliki\Tic-tac-toe\KrestikiNoliki\Player.c(33,15): error C2059: синтаксическая ошибка: [
+F:\KrestikiNoliki\Tic-tac-toe\KrestikiNoliki\Player.c(42,1): fatal error C1004: непредвиденное обнаружение конца файла
+  Print.c
+  Robot.c
+F:\KrestikiNoliki\Tic-tac-toe\KrestikiNoliki\Robot.c(4,1): warning C4029: объявленный список формальных параметров отличается от объявления
+  Screensaver.c
+  Time.c
+  Win.c
+  WinCheck.c
+  Создание кода...
